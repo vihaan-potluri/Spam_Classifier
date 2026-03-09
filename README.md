@@ -109,6 +109,4 @@ These improvements will be explored in a future project focused on phishing dete
 
 ---
 
-## Author
-
 This project was created as part of a machine learning portfolio demonstrating practical applications of NLP and classification models.
